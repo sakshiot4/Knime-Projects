@@ -1,0 +1,8 @@
+# KNIME / workspace junk
+.metadata/
+
+# Chromium / cache
+cefcache/
+
+# General
+*.log
